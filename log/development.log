@@ -12,3 +12,45 @@ Processing by PagesController#one as HTML
 Completed 200 OK in 669ms (Views: 657.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/pages/one" for 127.0.0.1 at 2018-08-20 21:51:33 -0300
+Processing by PagesController#one as HTML
+  Rendering pages/one.html.erb within layouts/application
+  Rendered pages/one.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 29ms (Views: 27.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/one" for 127.0.0.1 at 2018-08-20 21:51:59 -0300
+Processing by PagesController#one as HTML
+  Rendering pages/one.html.erb within layouts/application
+  Rendered pages/one.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 210ms (Views: 200.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-20 21:55:47 -0300
+Processing by PagesController#one as HTML
+  Rendering pages/one.html.erb within layouts/application
+  Rendered pages/one.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 200ms (Views: 191.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/one" for 127.0.0.1 at 2018-08-20 21:55:56 -0300
+Processing by PagesController#one as HTML
+  Rendering pages/one.html.erb within layouts/application
+  Rendered pages/one.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 35ms (Views: 33.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/two" for 127.0.0.1 at 2018-08-20 21:56:01 -0300
+Processing by PagesController#two as HTML
+  Rendering pages/two.html.erb within layouts/application
+  Rendered pages/two.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 37ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-20 21:56:05 -0300
+Processing by PagesController#one as HTML
+  Rendering pages/one.html.erb within layouts/application
+  Rendered pages/one.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 36ms (Views: 33.1ms | ActiveRecord: 0.0ms)
+
+
